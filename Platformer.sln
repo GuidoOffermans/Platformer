@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Platformer", "Platformer\Platformer.csproj", "{3F5E8542-3152-4BF2-9D69-CB5134B93B0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nez", "..\Nez\Nez.Portable\Nez.csproj", "{B11A3352-92D6-4B2A-9254-8448FCC3CED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nez.ImGui", "..\Nez\Nez.ImGui\Nez.ImGui.csproj", "{2813B52A-00DE-45E6-996B-4C1EFD3E3BD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F5E8542-3152-4BF2-9D69-CB5134B93B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5E8542-3152-4BF2-9D69-CB5134B93B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5E8542-3152-4BF2-9D69-CB5134B93B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F5E8542-3152-4BF2-9D69-CB5134B93B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B11A3352-92D6-4B2A-9254-8448FCC3CED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B11A3352-92D6-4B2A-9254-8448FCC3CED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B11A3352-92D6-4B2A-9254-8448FCC3CED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B11A3352-92D6-4B2A-9254-8448FCC3CED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2813B52A-00DE-45E6-996B-4C1EFD3E3BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2813B52A-00DE-45E6-996B-4C1EFD3E3BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2813B52A-00DE-45E6-996B-4C1EFD3E3BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2813B52A-00DE-45E6-996B-4C1EFD3E3BD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
